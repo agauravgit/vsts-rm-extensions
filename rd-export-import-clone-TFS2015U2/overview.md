@@ -1,4 +1,8 @@
-# Clone release definition
+# Clone release definition on TFS
+
+**Note:** This extension is only for TFS 2015 Update 2. For VS Team Services, this feature is in built now.
+To **install** on TFS, you would need to download the extension fro marketplace and then upload to your TFS installation. 
+
 ### Overview
 This extension lets you copy your release definition in the same project or across projects/accounts. You may clone an existing RD to the same account+project or export it and import later in another project or another account+project.
 
